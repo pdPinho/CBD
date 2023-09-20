@@ -1,0 +1,21 @@
+lpush 1 hello
+exists 1
+keys *
+rename 1 0
+type 0
+del 0
+
+set 1 hello world
+get 1
+get 0
+help get
+strlen 1
+append 1 !
+setrange 1 6 replaced
+incrby 1 1
+decrby 2 1
+expire 1 1
+
+set name Pedro
+get name
+del name

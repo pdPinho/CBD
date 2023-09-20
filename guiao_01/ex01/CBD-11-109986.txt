@@ -1,0 +1,15 @@
+lpush 1 hello
+get
+lindex
+lindex 0
+lindex 1 0
+lindex 1 1
+lindex 1 -1
+lindex 1 -3
+lindex 1 -2
+lpush 1 outro
+lindex 1 0
+lindex 1 1
+lindex 1 -1
+lindex 1 -2
+lindex 1 -3
