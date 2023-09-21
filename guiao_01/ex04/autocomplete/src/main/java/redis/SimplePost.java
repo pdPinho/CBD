@@ -24,6 +24,19 @@ public class SimplePost {
 	public List<String> getUsers() {
 		return jedis.lrange(USERS, 0, -1);
 	}
+
+	public static void findName(String input, List<String> users){
+		StringBuilder stb = new StringBuilder();
+
+		for(String user: users){
+			if (user.length() >= input.length())
+				if (user.startsWith(input)){
+					stb.append(user + "\n");
+				}
+		}
+
+		System.out.println(stb);
+	}
  
 	public static void main(String[] args) {
 		SimplePost board = new SimplePost();
@@ -47,6 +60,7 @@ public class SimplePost {
 		}
 
 
+		// input handling
 		Scanner sc = new Scanner(System.in);
 		String input;
 
@@ -63,19 +77,6 @@ public class SimplePost {
 			// find name
 			findName(input, board.getUsers());
 		}
-	}
-
-	public static void findName(String input, List<String> users){
-		StringBuilder stb = new StringBuilder();
-
-		for(String user: users){
-			if (user.length() >= input.length())
-				if (user.startsWith(input)){
-					stb.append(user + "\n");
-				}
-		}
-
-		System.out.println(stb);
 	}
 }
 
