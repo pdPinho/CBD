@@ -15,14 +15,15 @@ public class Post {
 	public Post() {
 		this.jedis = new Jedis();
 	}
- 
-	// Saves request made by user with given product and quantity
+	
+	/*
+	* Saves request made by user with given product, timestamp and quantity:
+	*
+	* We use sorted sets from redis where we save the product,timestamp information within a map
+	* Each user has their own entry on redis, with both the sorted set and a normal hash where we keep their quantities
+	*/
 	public void saveRequest(String username, Map<String, Double> request, int quantity, String product) {
-		try {
-			checkTimeLimit(username);
-		} catch (Exception e) {
-			// TODO: handle exception
-		}
+		checkTimeLimit(username);
 		
 		if(canRequest(username, quantity)){
 			if(jedis.zscore(username, product) != null){
@@ -34,7 +35,7 @@ public class Post {
 			jedis.zadd(username, request);
 		}
 		else {
-			System.out.println("\nRequest denied. Too many requests.\n");
+			System.out.println("\nRequest denied. Maximum quantity requested reached by user.\n");
 		}
 	}
 
@@ -139,46 +140,6 @@ public class Post {
 
 		System.out.println(handler.getTimestamps(user));
 		System.out.println(handler.getRequests(user));
-
-
-		/*
-
-		handler.sleepApp(3);
-
-
-		product = "Melon";
-		quantity = 5;
-        ts = System.currentTimeMillis() / 1000;
-		request = new HashMap<>();
-		request.put(product, ts);
-		handler.saveRequest(user, request, quantity);
-
-		System.out.println(handler.getTimestamps(user));
-		System.out.println(handler.getRequests(user));
-
-
-		product = "Kiwi";
-		quantity = 15;
-        ts = System.currentTimeMillis() / 1000;
-		request = new HashMap<>();
-		request.put(product, ts);
-		handler.saveRequest(user, request, quantity);
-
-		System.out.println(handler.getTimestamps(user));
-		System.out.println(handler.getRequests(user));
-
-
-		product = "Banana";
-		quantity = 15;
-        ts = System.currentTimeMillis() / 1000;
-		request = new HashMap<>();
-		request.put(product, ts);
-		handler.saveRequest(user, request, quantity);
-
-		System.out.println(handler.getTimestamps(user));
-		System.out.println(handler.getRequests(user));
-
-		*/
 	}
 }
 

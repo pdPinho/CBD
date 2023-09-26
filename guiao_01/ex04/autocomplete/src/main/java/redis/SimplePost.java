@@ -4,6 +4,9 @@ import java.io.*;
 import java.util.*;
 import redis.clients.jedis.Jedis;
  
+
+// TODO - Missing a way of doing it with only redis (zrangeParams)
+
 public class SimplePost {
  
 	private Jedis jedis;
