@@ -1,0 +1,27 @@
+// !!!!!!
+// We keep all history and check timestamps
+// !!!!!!
+
+
+/*
+	In this scenario we will be inserting 4 (3 different ones) products with the same user when 
+	the maximum product quantity is 2
+	The first and second one will be inserted, however the third one will be denied.
+	We then try to insert a product that we had already inserted previously, which succeeds
+*/ 
+
+
+// user 2 - product 2 ==== INSERTED
+Insert done
+
+// user 2 - product 1 ===== INSERTED
+Insert done
+
+// user 2 - product 3 ===== DENIED (MAX = 2)
+You've reached your maximum
+
+// user 2 - product 1 ===== INSERTED
+Insert done
+
+// user 1 - product 2 ===== INSERTED
+Insert done

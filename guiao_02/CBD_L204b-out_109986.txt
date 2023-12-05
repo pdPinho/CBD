@@ -1,0 +1,15 @@
+// !!!!!!!
+// Using IndexOptions expireAfter (history deletion)
+// !!!!!!!
+
+// Scenario:
+// we insert 10 products for user 2 
+// and 5 products for user 1
+// MAX quantity = 30 (per user)
+
+
+// Inserting 15 products for user 2 (total 25)
+Inserted!
+
+// if we were to try to insert another 6 products for user 2 (within the time limit)
+// we would end up with an error, warning us that we've reached our maximum

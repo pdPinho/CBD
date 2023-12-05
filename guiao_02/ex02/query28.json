@@ -1,0 +1,142 @@
+[
+  {
+    "address": {
+      "rua": "18 Avenue"
+    },
+    "localidade": "Brooklyn",
+    "nome": "C & C Catering Service"
+  },
+  {
+    "address": {
+      "rua": "Avenue U"
+    },
+    "localidade": "Brooklyn",
+    "nome": "Wilken'S Fine Food"
+  },
+  {
+    "address": {
+      "rua": "Sutter Avenue"
+    },
+    "localidade": "Brooklyn",
+    "nome": "May May Kitchen"
+  },
+  {
+    "address": {
+      "rua": "Church Avenue"
+    },
+    "localidade": "Brooklyn",
+    "nome": "Carvel Ice Cream"
+  },
+  {
+    "address": {
+      "rua": "Hillside Avenue"
+    },
+    "localidade": "Queens",
+    "nome": "Carvel Ice Cream"
+  },
+  {
+    "address": {
+      "rua": "3 Avenue"
+    },
+    "localidade": "Brooklyn",
+    "nome": "Nordic Delicacies"
+  },
+  {
+    "address": {
+      "rua": "20 Avenue"
+    },
+    "localidade": "Queens",
+    "nome": "Sal'S Deli"
+  },
+  {
+    "address": {
+      "rua": "Amsterdam Avenue"
+    },
+    "localidade": "Manhattan",
+    "nome": "Harriet'S Kitchen"
+  },
+  {
+    "address": {
+      "rua": "Columbus Avenue"
+    },
+    "localidade": "Manhattan",
+    "nome": "P & S Deli Grocery"
+  },
+  {
+    "address": {
+      "rua": "Flatbush Avenue"
+    },
+    "localidade": "Brooklyn",
+    "nome": "Wendy'S"
+  },
+  {
+    "address": {
+      "rua": "Stillwell Avenue"
+    },
+    "localidade": "Brooklyn",
+    "nome": "Riviera Caterer"
+  },
+  {
+    "address": {
+      "rua": "Nostrand Avenue"
+    },
+    "localidade": "Brooklyn",
+    "nome": "Taste The Tropics Ice Cream"
+  },
+  {
+    "address": {
+      "rua": "11 Avenue"
+    },
+    "localidade": "Brooklyn",
+    "nome": "Regina Caterers"
+  },
+  {
+    "address": {
+      "rua": "5 Avenue"
+    },
+    "localidade": "Brooklyn",
+    "nome": "Mejlander & Mulgannon"
+  },
+  {
+    "address": {
+      "rua": "8 Avenue"
+    },
+    "localidade": "Manhattan",
+    "nome": "Cafe Metro"
+  },
+  {
+    "address": {
+      "rua": "Myrtle Avenue"
+    },
+    "localidade": "Brooklyn",
+    "nome": "White Castle"
+  },
+  {
+    "address": {
+      "rua": "Wyckoff Avenue"
+    },
+    "localidade": "Queens",
+    "nome": "Tony'S Deli"
+  },
+  {
+    "address": {
+      "rua": "Lexington Avenue"
+    },
+    "localidade": "Manhattan",
+    "nome": "Lexler Deli"
+  },
+  {
+    "address": {
+      "rua": "37 Avenue"
+    },
+    "localidade": "Queens",
+    "nome": "Ho Mei Restaurant"
+  },
+  {
+    "address": {
+      "rua": "Metropolitan Avenue"
+    },
+    "localidade": "Queens",
+    "nome": "Hot Bagels"
+  }
+]

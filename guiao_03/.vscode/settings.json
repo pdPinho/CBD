@@ -1,0 +1,15 @@
+{
+    "sqltools.connections": [
+        {
+            "server": "localhost",
+            "port": 9042,
+            "previewLimit": 50,
+            "driver": "Cassandra",
+            "name": "cassandra2",
+            "group": "cassandra",
+            "username": "cassandra",
+            "password": "cassandra"
+        }
+    ],
+    "java.configuration.updateBuildConfiguration": "automatic"
+}

@@ -1,0 +1,118 @@
+[
+  {
+    "address": {
+      "coord": [
+        -73.9864626,
+        40.7266739
+      ]
+    },
+    "gastronomia": "Indian",
+    "grades": [
+      {
+        "score": 5
+      },
+      {
+        "score": 8
+      },
+      {
+        "score": 12
+      },
+      {
+        "score": 2
+      },
+      {
+        "score": 9
+      },
+      {
+        "score": 92
+      },
+      {
+        "score": 41
+      }
+    ]
+  },
+  {
+    "address": {
+      "coord": [
+        -73.984758,
+        40.7457939
+      ]
+    },
+    "gastronomia": "Pizza/Italian",
+    "grades": [
+      {
+        "score": 31
+      },
+      {
+        "score": 98
+      },
+      {
+        "score": 32
+      },
+      {
+        "score": 21
+      },
+      {
+        "score": 11
+      }
+    ]
+  },
+  {
+    "address": {
+      "coord": [
+        -73.94610279999999,
+        40.7137587
+      ]
+    },
+    "gastronomia": "Bakery",
+    "grades": [
+      {
+        "score": 10
+      },
+      {
+        "score": 10
+      },
+      {
+        "score": 13
+      },
+      {
+        "score": 18
+      },
+      {
+        "score": 9
+      },
+      {
+        "score": 8
+      },
+      {
+        "score": 77
+      }
+    ]
+  },
+  {
+    "address": {
+      "coord": [
+        -73.9772294,
+        40.7527262
+      ]
+    },
+    "gastronomia": "Italian",
+    "grades": [
+      {
+        "score": 20
+      },
+      {
+        "score": 14
+      },
+      {
+        "score": 13
+      },
+      {
+        "score": 76
+      },
+      {
+        "score": 12
+      }
+    ]
+  }
+]

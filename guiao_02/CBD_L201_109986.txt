@@ -1,0 +1,3 @@
+show dbs
+
+// I didn't create this file at the beginning of the assignment, so I don't remember what I tried and whatnot...

@@ -1,0 +1,182 @@
+[
+  {
+    "_id": {
+      "$oid": "6515422d920d752cf7586dbe"
+    },
+    "localidade": "Brooklyn",
+    "gastronomia": "American",
+    "nome": "C & C Catering Service",
+    "restaurant_id": "40357437"
+  },
+  {
+    "_id": {
+      "$oid": "6515422d920d752cf7586dbf"
+    },
+    "localidade": "Brooklyn",
+    "gastronomia": "Delicatessen",
+    "nome": "Wilken'S Fine Food",
+    "restaurant_id": "40356483"
+  },
+  {
+    "_id": {
+      "$oid": "6515422d920d752cf7586dc0"
+    },
+    "localidade": "Queens",
+    "gastronomia": "American",
+    "nome": "Brunos On The Boulevard",
+    "restaurant_id": "40356151"
+  },
+  {
+    "_id": {
+      "$oid": "6515422d920d752cf7586dc1"
+    },
+    "localidade": "Brooklyn",
+    "gastronomia": "Chinese",
+    "nome": "May May Kitchen",
+    "restaurant_id": "40358429"
+  },
+  {
+    "_id": {
+      "$oid": "6515422d920d752cf7586dc2"
+    },
+    "localidade": "Manhattan",
+    "gastronomia": "American",
+    "nome": "1 East 66Th Street Kitchen",
+    "restaurant_id": "40359480"
+  },
+  {
+    "_id": {
+      "$oid": "6515422d920d752cf7586dc3"
+    },
+    "localidade": "Brooklyn",
+    "gastronomia": "Ice Cream, Gelato, Yogurt, Ices",
+    "nome": "Carvel Ice Cream",
+    "restaurant_id": "40360076"
+  },
+  {
+    "_id": {
+      "$oid": "6515422d920d752cf7586dc4"
+    },
+    "localidade": "Queens",
+    "gastronomia": "Ice Cream, Gelato, Yogurt, Ices",
+    "nome": "Carvel Ice Cream",
+    "restaurant_id": "40361322"
+  },
+  {
+    "_id": {
+      "$oid": "6515422d920d752cf7586dc5"
+    },
+    "localidade": "Brooklyn",
+    "gastronomia": "Jewish/Kosher",
+    "nome": "Seuda Foods",
+    "restaurant_id": "40360045"
+  },
+  {
+    "_id": {
+      "$oid": "6515422d920d752cf7586dc6"
+    },
+    "localidade": "Manhattan",
+    "gastronomia": "American",
+    "nome": "Glorious Food",
+    "restaurant_id": "40361521"
+  },
+  {
+    "_id": {
+      "$oid": "6515422d920d752cf7586dc7"
+    },
+    "localidade": "Brooklyn",
+    "gastronomia": "Delicatessen",
+    "nome": "Nordic Delicacies",
+    "restaurant_id": "40361390"
+  },
+  {
+    "_id": {
+      "$oid": "6515422d920d752cf7586dc8"
+    },
+    "localidade": "Manhattan",
+    "gastronomia": "Irish",
+    "nome": "Dj Reynolds Pub And Restaurant",
+    "restaurant_id": "30191841"
+  },
+  {
+    "_id": {
+      "$oid": "6515422d920d752cf7586dc9"
+    },
+    "localidade": "Bronx",
+    "gastronomia": "Bakery",
+    "nome": "Morris Park Bake Shop",
+    "restaurant_id": "30075445"
+  },
+  {
+    "_id": {
+      "$oid": "6515422d920d752cf7586dca"
+    },
+    "localidade": "Manhattan",
+    "gastronomia": "Delicatessen",
+    "nome": "Bully'S Deli",
+    "restaurant_id": "40361708"
+  },
+  {
+    "_id": {
+      "$oid": "6515422d920d752cf7586dcb"
+    },
+    "localidade": "Queens",
+    "gastronomia": "Delicatessen",
+    "nome": "Sal'S Deli",
+    "restaurant_id": "40361618"
+  },
+  {
+    "_id": {
+      "$oid": "6515422d920d752cf7586dcc"
+    },
+    "localidade": "Brooklyn",
+    "gastronomia": "American",
+    "nome": "The Movable Feast",
+    "restaurant_id": "40361606"
+  },
+  {
+    "_id": {
+      "$oid": "6515422d920d752cf7586dcd"
+    },
+    "localidade": "Manhattan",
+    "gastronomia": "Chicken",
+    "nome": "Harriet'S Kitchen",
+    "restaurant_id": "40362098"
+  },
+  {
+    "_id": {
+      "$oid": "6515422d920d752cf7586dce"
+    },
+    "localidade": "Queens",
+    "gastronomia": "Delicatessen",
+    "nome": "Steve Chu'S Deli & Grocery",
+    "restaurant_id": "40361998"
+  },
+  {
+    "_id": {
+      "$oid": "6515422d920d752cf7586dcf"
+    },
+    "localidade": "Manhattan",
+    "gastronomia": "American",
+    "nome": "P & S Deli Grocery",
+    "restaurant_id": "40362264"
+  },
+  {
+    "_id": {
+      "$oid": "6515422d920d752cf7586dd0"
+    },
+    "localidade": "Staten Island",
+    "gastronomia": "Jewish/Kosher",
+    "nome": "Kosher Island",
+    "restaurant_id": "40356442"
+  },
+  {
+    "_id": {
+      "$oid": "6515422d920d752cf7586dd1"
+    },
+    "localidade": "Brooklyn",
+    "gastronomia": "Hamburgers",
+    "nome": "Wendy'S",
+    "restaurant_id": "30112340"
+  }
+]

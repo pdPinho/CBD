@@ -1,0 +1,31 @@
+cqlsh> CREATE KEYSPACE IF NOT EXISTS store WITH REPLICATION = { 'class' : 'SimpleStrategy', 'replication_factor' : '1' };
+
+
+cqlsh> CREATE TABLE IF NOT EXISTS store.shopping_cart (
+   ... userid text PRIMARY KEY,
+   ... item_count int,
+   ... last_update_timestamp timestamp
+   ... );
+   
+   
+cqlsh> INSERT INTO store.shopping_cart
+   ... (userid, item_count, last_update_timestamp)
+   ... VALUES ('9876', 2, toTimeStamp(now()));
+   
+   
+cqlsh> INSERT INTO store.shopping_cart
+   ... (userid, item_count, last_update_timestamp)
+   ... VALUES ('1234', 5, toTimeStamp(now()));
+   
+   
+cqlsh> SELECT * FROM store.shopping_cart;
+
+ userid | item_count | last_update_timestamp
+--------+------------+---------------------------------
+   1234 |          5 | 2023-11-02 10:36:03.400000+0000
+   9876 |          2 | 2023-11-02 10:36:02.563000+0000
+
+(2 rows)
+
+cqlsh>  INSERT INTO store.shopping_cart (userid, item_count) VALUES ('4567', 20);
+

@@ -1,0 +1,26 @@
+[
+  {
+    "localidade": "Brooklyn",
+    "gastronomia": "Delicatessen",
+    "nome": "Wilken'S Fine Food",
+    "restaurant_id": "40356483"
+  },
+  {
+    "localidade": "Bronx",
+    "gastronomia": "American",
+    "nome": "Wild Asia",
+    "restaurant_id": "40357217"
+  },
+  {
+    "localidade": "Bronx",
+    "gastronomia": "American",
+    "nome": "The Williamsbridge Tavern",
+    "restaurant_id": "40852754"
+  },
+  {
+    "localidade": "Bronx",
+    "gastronomia": "Pizza",
+    "nome": "Wilbel Pizza",
+    "restaurant_id": "40871979"
+  }
+]

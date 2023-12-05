@@ -1,0 +1,102 @@
+[
+  {
+    "nome": "World Cup Cafe",
+    "avgScore": 33,
+    "numGrades": 3
+  },
+  {
+    "nome": "Tequilla Sunrise",
+    "avgScore": 32,
+    "numGrades": 2
+  },
+  {
+    "nome": "Holland Bar",
+    "avgScore": 47,
+    "numGrades": 1
+  },
+  {
+    "nome": "Planet Sushi",
+    "avgScore": 44,
+    "numGrades": 1
+  },
+  {
+    "nome": "West 79Th Street Boat Basin Cafe",
+    "avgScore": 89,
+    "numGrades": 1
+  },
+  {
+    "nome": "Good Enough To Eat (A.G. Bistro)",
+    "avgScore": 30.5,
+    "numGrades": 2
+  },
+  {
+    "nome": "Mesivta Eitz Chaim",
+    "avgScore": 36,
+    "numGrades": 1
+  },
+  {
+    "nome": "Coppola'S",
+    "avgScore": 32.666666666666664,
+    "numGrades": 3
+  },
+  {
+    "nome": "Italian Village Restaurant Pizzeria",
+    "avgScore": 34,
+    "numGrades": 2
+  },
+  {
+    "nome": "Legend'S Pub",
+    "avgScore": 38,
+    "numGrades": 1
+  },
+  {
+    "nome": "Cafe Gitane",
+    "avgScore": 33,
+    "numGrades": 1
+  },
+  {
+    "nome": "Sharaku Japanese Restaurant",
+    "avgScore": 31,
+    "numGrades": 2
+  },
+  {
+    "nome": "Michael'S Restaurant",
+    "avgScore": 33,
+    "numGrades": 2
+  },
+  {
+    "nome": "Nueva Villa China Restaurant",
+    "avgScore": 33,
+    "numGrades": 2
+  },
+  {
+    "nome": "Acqua",
+    "avgScore": 33.333333333333336,
+    "numGrades": 3
+  },
+  {
+    "nome": "Pho Bang Restaurant",
+    "avgScore": 36.5,
+    "numGrades": 2
+  },
+  {
+    "nome": "Dojo Restaurant",
+    "avgScore": 33.5,
+    "numGrades": 2
+  },
+  {
+    "nome": "Michelle'S Cocktail Lounge",
+    "avgScore": 30.333333333333332,
+    "numGrades": 3
+  },
+  {
+    "nome": "Seo Japanese Restaurant",
+    "avgScore": 42.5,
+    "numGrades": 2
+  },
+  {
+    "nome": "Crystal Palace",
+    "avgScore": 34.5,
+    "numGrades": 2
+  }
+]

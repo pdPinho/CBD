@@ -1,0 +1,29 @@
+[
+  {
+    "address": {
+      "coord": [
+        -101.8945214,
+        33.5197474
+      ]
+    },
+    "nome": "Burger King"
+  },
+  {
+    "address": {
+      "coord": [
+        -119.6368672,
+        36.2504996
+      ]
+    },
+    "nome": "Cascarino'S"
+  },
+  {
+    "address": {
+      "coord": [
+        -111.9975205,
+        42.0970258
+      ]
+    },
+    "nome": "Sports Center At Chelsea Piers (Sushi Bar)"
+  }
+]

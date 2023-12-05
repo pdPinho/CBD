@@ -1,0 +1,162 @@
+[
+  {
+    "address": {
+      "zipcode": "11214"
+    },
+    "localidade": "Brooklyn",
+    "nome": "C & C Catering Service",
+    "restaurant_id": "40357437"
+  },
+  {
+    "address": {
+      "zipcode": "11234"
+    },
+    "localidade": "Brooklyn",
+    "nome": "Wilken'S Fine Food",
+    "restaurant_id": "40356483"
+  },
+  {
+    "address": {
+      "zipcode": "11369"
+    },
+    "localidade": "Queens",
+    "nome": "Brunos On The Boulevard",
+    "restaurant_id": "40356151"
+  },
+  {
+    "address": {
+      "zipcode": "11208"
+    },
+    "localidade": "Brooklyn",
+    "nome": "May May Kitchen",
+    "restaurant_id": "40358429"
+  },
+  {
+    "address": {
+      "zipcode": "10065"
+    },
+    "localidade": "Manhattan",
+    "nome": "1 East 66Th Street Kitchen",
+    "restaurant_id": "40359480"
+  },
+  {
+    "address": {
+      "zipcode": "11218"
+    },
+    "localidade": "Brooklyn",
+    "nome": "Carvel Ice Cream",
+    "restaurant_id": "40360076"
+  },
+  {
+    "address": {
+      "zipcode": "11004"
+    },
+    "localidade": "Queens",
+    "nome": "Carvel Ice Cream",
+    "restaurant_id": "40361322"
+  },
+  {
+    "address": {
+      "zipcode": "11223"
+    },
+    "localidade": "Brooklyn",
+    "nome": "Seuda Foods",
+    "restaurant_id": "40360045"
+  },
+  {
+    "address": {
+      "zipcode": "10021"
+    },
+    "localidade": "Manhattan",
+    "nome": "Glorious Food",
+    "restaurant_id": "40361521"
+  },
+  {
+    "address": {
+      "zipcode": "11209"
+    },
+    "localidade": "Brooklyn",
+    "nome": "Nordic Delicacies",
+    "restaurant_id": "40361390"
+  },
+  {
+    "address": {
+      "zipcode": "10019"
+    },
+    "localidade": "Manhattan",
+    "nome": "Dj Reynolds Pub And Restaurant",
+    "restaurant_id": "30191841"
+  },
+  {
+    "address": {
+      "zipcode": "10462"
+    },
+    "localidade": "Bronx",
+    "nome": "Morris Park Bake Shop",
+    "restaurant_id": "30075445"
+  },
+  {
+    "address": {
+      "zipcode": "10003"
+    },
+    "localidade": "Manhattan",
+    "nome": "Bully'S Deli",
+    "restaurant_id": "40361708"
+  },
+  {
+    "address": {
+      "zipcode": "11356"
+    },
+    "localidade": "Queens",
+    "nome": "Sal'S Deli",
+    "restaurant_id": "40361618"
+  },
+  {
+    "address": {
+      "zipcode": "11215"
+    },
+    "localidade": "Brooklyn",
+    "nome": "The Movable Feast",
+    "restaurant_id": "40361606"
+  },
+  {
+    "address": {
+      "zipcode": "10024"
+    },
+    "localidade": "Manhattan",
+    "nome": "Harriet'S Kitchen",
+    "restaurant_id": "40362098"
+  },
+  {
+    "address": {
+      "zipcode": "11106"
+    },
+    "localidade": "Queens",
+    "nome": "Steve Chu'S Deli & Grocery",
+    "restaurant_id": "40361998"
+  },
+  {
+    "address": {
+      "zipcode": "10025"
+    },
+    "localidade": "Manhattan",
+    "nome": "P & S Deli Grocery",
+    "restaurant_id": "40362264"
+  },
+  {
+    "address": {
+      "zipcode": "10314"
+    },
+    "localidade": "Staten Island",
+    "nome": "Kosher Island",
+    "restaurant_id": "40356442"
+  },
+  {
+    "address": {
+      "zipcode": "11225"
+    },
+    "localidade": "Brooklyn",
+    "nome": "Wendy'S",
+    "restaurant_id": "30112340"
+  }
+]

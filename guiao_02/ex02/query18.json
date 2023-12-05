@@ -1,0 +1,442 @@
+[
+  {
+    "localidade": "Brooklyn",
+    "gastronomia": "Vegetarian",
+    "grades": [
+      {
+        "grade": "A"
+      },
+      {
+        "grade": "A"
+      },
+      {
+        "grade": "A"
+      },
+      {
+        "grade": "C"
+      },
+      {
+        "grade": "A"
+      }
+    ],
+    "nome": "Strictly Vegetarian"
+  },
+  {
+    "localidade": "Brooklyn",
+    "gastronomia": "Vegetarian",
+    "grades": [
+      {
+        "grade": "A"
+      },
+      {
+        "grade": "A"
+      },
+      {
+        "grade": "A"
+      },
+      {
+        "grade": "A"
+      },
+      {
+        "grade": "A"
+      },
+      {
+        "grade": "C"
+      }
+    ],
+    "nome": "Original Vegetarian Restaurant"
+  },
+  {
+    "localidade": "Brooklyn",
+    "gastronomia": "Vegetarian",
+    "grades": [
+      {
+        "grade": "A"
+      },
+      {
+        "grade": "A"
+      },
+      {
+        "grade": "A"
+      }
+    ],
+    "nome": "Bliss Bakery & Cafe"
+  },
+  {
+    "localidade": "Brooklyn",
+    "gastronomia": "Turkish",
+    "grades": [
+      {
+        "grade": "A"
+      },
+      {
+        "grade": "B"
+      },
+      {
+        "grade": "A"
+      },
+      {
+        "grade": "A"
+      },
+      {
+        "grade": "C"
+      },
+      {
+        "grade": "A"
+      },
+      {
+        "grade": "A"
+      }
+    ],
+    "nome": "Sahara Restaurant"
+  },
+  {
+    "localidade": "Brooklyn",
+    "gastronomia": "Turkish",
+    "grades": [
+      {
+        "grade": "A"
+      },
+      {
+        "grade": "A"
+      },
+      {
+        "grade": "A"
+      },
+      {
+        "grade": "A"
+      }
+    ],
+    "nome": "Istanbul Restaurant"
+  },
+  {
+    "localidade": "Brooklyn",
+    "gastronomia": "Turkish",
+    "grades": [
+      {
+        "grade": "A"
+      },
+      {
+        "grade": "A"
+      },
+      {
+        "grade": "B"
+      },
+      {
+        "grade": "A"
+      },
+      {
+        "grade": "B"
+      },
+      {
+        "grade": "A"
+      }
+    ],
+    "nome": "Memo Shish Kebab"
+  },
+  {
+    "localidade": "Brooklyn",
+    "gastronomia": "Thai",
+    "grades": [
+      {
+        "grade": "A"
+      },
+      {
+        "grade": "A"
+      },
+      {
+        "grade": "A"
+      },
+      {
+        "grade": "A"
+      },
+      {
+        "grade": "A"
+      }
+    ],
+    "nome": "Bangkok Thai House"
+  },
+  {
+    "localidade": "Brooklyn",
+    "gastronomia": "Thai",
+    "grades": [
+      {
+        "grade": "A"
+      },
+      {
+        "grade": "B"
+      },
+      {
+        "grade": "A"
+      },
+      {
+        "grade": "A"
+      },
+      {
+        "grade": "A"
+      }
+    ],
+    "nome": "Joya"
+  },
+  {
+    "localidade": "Brooklyn",
+    "gastronomia": "Thai",
+    "grades": [
+      {
+        "grade": "A"
+      },
+      {
+        "grade": "A"
+      },
+      {
+        "grade": "A"
+      },
+      {
+        "grade": "C"
+      },
+      {
+        "grade": "A"
+      }
+    ],
+    "nome": "Ott Thai Cuisine"
+  },
+  {
+    "localidade": "Brooklyn",
+    "gastronomia": "Tex-Mex",
+    "grades": [
+      {
+        "grade": "A"
+      },
+      {
+        "grade": "A"
+      },
+      {
+        "grade": "A"
+      },
+      {
+        "grade": "A"
+      },
+      {
+        "grade": "B"
+      }
+    ],
+    "nome": "Santa Fe Grill & Bar"
+  },
+  {
+    "localidade": "Brooklyn",
+    "gastronomia": "Tex-Mex",
+    "grades": [
+      {
+        "grade": "B"
+      },
+      {
+        "grade": "A"
+      },
+      {
+        "grade": "B"
+      },
+      {
+        "grade": "A"
+      },
+      {
+        "grade": "B"
+      },
+      {
+        "grade": "A"
+      }
+    ],
+    "nome": "Buddy'S Burrito & Taco Bar"
+  },
+  {
+    "localidade": "Brooklyn",
+    "gastronomia": "Steak",
+    "grades": [
+      {
+        "grade": "A"
+      },
+      {
+        "grade": "A"
+      },
+      {
+        "grade": "A"
+      },
+      {
+        "grade": "A"
+      },
+      {
+        "grade": "A"
+      }
+    ],
+    "nome": "Peter Luger Steakhouse"
+  },
+  {
+    "localidade": "Brooklyn",
+    "gastronomia": "Steak",
+    "grades": [
+      {
+        "grade": "A"
+      },
+      {
+        "grade": "A"
+      },
+      {
+        "grade": "A"
+      },
+      {
+        "grade": "A"
+      },
+      {
+        "grade": "A"
+      },
+      {
+        "grade": "A"
+      }
+    ],
+    "nome": "Hunter'S Steak & Ale House"
+  },
+  {
+    "localidade": "Brooklyn",
+    "gastronomia": "Steak",
+    "grades": [
+      {
+        "grade": "A"
+      },
+      {
+        "grade": "A"
+      },
+      {
+        "grade": "C"
+      },
+      {
+        "grade": "A"
+      },
+      {
+        "grade": "A"
+      }
+    ],
+    "nome": "Arirang Hibachi Steakhouse"
+  },
+  {
+    "localidade": "Brooklyn",
+    "gastronomia": "Spanish",
+    "grades": [
+      {
+        "grade": "A"
+      },
+      {
+        "grade": "A"
+      },
+      {
+        "grade": "A"
+      }
+    ],
+    "nome": "Sancho'S Restaurant"
+  },
+  {
+    "localidade": "Brooklyn",
+    "gastronomia": "Spanish",
+    "grades": [
+      {
+        "grade": "A"
+      },
+      {
+        "grade": "A"
+      },
+      {
+        "grade": "A"
+      },
+      {
+        "grade": "A"
+      },
+      {
+        "grade": "A"
+      }
+    ],
+    "nome": "Charle'S Corner Restaurant & Deli"
+  },
+  {
+    "localidade": "Brooklyn",
+    "gastronomia": "Spanish",
+    "grades": [
+      {
+        "grade": "A"
+      },
+      {
+        "grade": "A"
+      },
+      {
+        "grade": "C"
+      },
+      {
+        "grade": "A"
+      },
+      {
+        "grade": "A"
+      }
+    ],
+    "nome": "Don Paco  Lopez Panderia"
+  },
+  {
+    "localidade": "Brooklyn",
+    "gastronomia": "Spanish",
+    "grades": [
+      {
+        "grade": "A"
+      },
+      {
+        "grade": "A"
+      },
+      {
+        "grade": "A"
+      },
+      {
+        "grade": "A"
+      },
+      {
+        "grade": "B"
+      }
+    ],
+    "nome": "La Cabana Restaurant"
+  },
+  {
+    "localidade": "Brooklyn",
+    "gastronomia": "Spanish",
+    "grades": [
+      {
+        "grade": "A"
+      },
+      {
+        "grade": "A"
+      },
+      {
+        "grade": "A"
+      },
+      {
+        "grade": "A"
+      },
+      {
+        "grade": "A"
+      }
+    ],
+    "nome": "La Lechonera Restaurant"
+  },
+  {
+    "localidade": "Brooklyn",
+    "gastronomia": "Spanish",
+    "grades": [
+      {
+        "grade": "A"
+      },
+      {
+        "grade": "A"
+      },
+      {
+        "grade": "A"
+      },
+      {
+        "grade": "A"
+      }
+    ],
+    "nome": "M. Restaurant"
+  }
+]

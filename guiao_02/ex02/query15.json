@@ -1,0 +1,44 @@
+[
+  {
+    "grades": [
+      {
+        "score": 10
+      },
+      {
+        "score": 9
+      },
+      {
+        "score": 13
+      },
+      {
+        "score": 10
+      },
+      {
+        "score": 11
+      }
+    ],
+    "nome": "Club Macanudo (Cigar Bar)",
+    "restaurant_id": "40526406"
+  },
+  {
+    "grades": [
+      {
+        "score": 9
+      },
+      {
+        "score": 10
+      },
+      {
+        "score": 22
+      },
+      {
+        "score": 5
+      },
+      {
+        "score": 11
+      }
+    ],
+    "nome": "Gene'S Coffee Shop",
+    "restaurant_id": "40614916"
+  }
+]

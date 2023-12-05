@@ -1,0 +1,222 @@
+[
+  {
+    "address": {
+      "coord": [
+        -73.9068506,
+        40.6199034
+      ]
+    },
+    "nome": "Wilken'S Fine Food",
+    "gastronomia": "Portuguese",
+    "scoreSum": 60
+  },
+  {
+    "address": {
+      "coord": [
+        -73.8803827,
+        40.7643124
+      ]
+    },
+    "nome": "Brunos On The Boulevard",
+    "gastronomia": "Portuguese",
+    "scoreSum": 68
+  },
+  {
+    "address": {
+      "coord": [
+        -73.871194,
+        40.6730975
+      ]
+    },
+    "nome": "May May Kitchen",
+    "gastronomia": "Portuguese",
+    "scoreSum": 138
+  },
+  {
+    "address": {
+      "coord": [
+        -73.9653967,
+        40.6064339
+      ]
+    },
+    "nome": "Seuda Foods",
+    "gastronomia": "Portuguese",
+    "scoreSum": 59
+  },
+  {
+    "address": {
+      "coord": [
+        -73.95171,
+        40.767461
+      ]
+    },
+    "nome": "Glorious Food",
+    "gastronomia": "Portuguese",
+    "scoreSum": 61
+  },
+  {
+    "address": {
+      "coord": [
+        -73.976112,
+        40.786714
+      ]
+    },
+    "nome": "Harriet'S Kitchen",
+    "gastronomia": "Portuguese",
+    "scoreSum": 64
+  },
+  {
+    "address": {
+      "coord": [
+        -73.96805719999999,
+        40.7925587
+      ]
+    },
+    "nome": "P & S Deli Grocery",
+    "gastronomia": "Portuguese",
+    "scoreSum": 67
+  },
+  {
+    "address": {
+      "coord": [
+        -73.961704,
+        40.662942
+      ]
+    },
+    "nome": "Wendy'S",
+    "gastronomia": "Portuguese",
+    "scoreSum": 55
+  },
+  {
+    "address": {
+      "coord": [
+        -73.8601152,
+        40.7311739
+      ]
+    },
+    "nome": "Tov Kosher Kitchen",
+    "gastronomia": "Portuguese",
+    "scoreSum": 71
+  },
+  {
+    "address": {
+      "coord": [
+        -74.00920839999999,
+        40.7132925
+      ]
+    },
+    "nome": "Downtown Deli",
+    "gastronomia": "Portuguese",
+    "scoreSum": 66
+  },
+  {
+    "address": {
+      "coord": [
+        -73.902463,
+        40.694924
+      ]
+    },
+    "nome": "Tony'S Deli",
+    "gastronomia": "Portuguese",
+    "scoreSum": 77
+  },
+  {
+    "address": {
+      "coord": [
+        -73.8642349,
+        40.75356
+      ]
+    },
+    "nome": "Ho Mei Restaurant",
+    "gastronomia": "Portuguese",
+    "scoreSum": 73
+  },
+  {
+    "address": {
+      "coord": [
+        -73.8740217,
+        40.7135015
+      ]
+    },
+    "nome": "Hot Bagels",
+    "gastronomia": "Portuguese",
+    "scoreSum": 115
+  },
+  {
+    "address": {
+      "coord": [
+        -73.95685019999999,
+        40.7753401
+      ]
+    },
+    "nome": "Lorenzo & Maria'S",
+    "gastronomia": "Portuguese",
+    "scoreSum": 75
+  },
+  {
+    "address": {
+      "coord": [
+        -73.9806854,
+        40.7778589
+      ]
+    },
+    "nome": "Domino'S Pizza",
+    "gastronomia": "Portuguese",
+    "scoreSum": 53
+  },
+  {
+    "address": {
+      "coord": [
+        -73.96084119999999,
+        40.8014307
+      ]
+    },
+    "nome": "Spoon Bread Catering",
+    "gastronomia": "Portuguese",
+    "scoreSum": 63
+  },
+  {
+    "address": {
+      "coord": [
+        -73.8941893,
+        40.8634684
+      ]
+    },
+    "nome": "Happy Garden",
+    "gastronomia": "Portuguese",
+    "scoreSum": 54
+  },
+  {
+    "address": {
+      "coord": [
+        -74.15235919999999,
+        40.5563756
+      ]
+    },
+    "nome": "B & M Hot Bagel & Grocery",
+    "gastronomia": "Portuguese",
+    "scoreSum": 78
+  },
+  {
+    "address": {
+      "coord": [
+        -74.0061936,
+        40.7092038
+      ]
+    },
+    "nome": "Texas Rotisserie",
+    "gastronomia": "Portuguese",
+    "scoreSum": 88
+  },
+  {
+    "address": {
+      "coord": [
+        -73.9712,
+        40.751703
+      ]
+    },
+    "nome": "Palm Restaurant",
+    "gastronomia": "Portuguese",
+    "scoreSum": 62
+  }
+]

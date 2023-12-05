@@ -1,0 +1,22 @@
+[
+  {
+    "_id": "Manhattan",
+    "totalRestaurants": 1883
+  },
+  {
+    "_id": "Brooklyn",
+    "totalRestaurants": 684
+  },
+  {
+    "_id": "Staten Island",
+    "totalRestaurants": 158
+  },
+  {
+    "_id": "Queens",
+    "totalRestaurants": 738
+  },
+  {
+    "_id": "Bronx",
+    "totalRestaurants": 309
+  }
+]

@@ -1,0 +1,111 @@
+[
+  {
+    "localidade": "Brooklyn",
+    "gastronomia": "Hamburgers",
+    "grades": [
+      {
+        "score": 2
+      },
+      {
+        "score": 3
+      },
+      {
+        "score": 0
+      }
+    ],
+    "nome": "White Castle"
+  },
+  {
+    "localidade": "Manhattan",
+    "gastronomia": "Café/Coffee/Tea",
+    "grades": [
+      {
+        "score": 2
+      },
+      {
+        "score": 2
+      },
+      {
+        "score": 2
+      },
+      {
+        "score": 2
+      }
+    ],
+    "nome": "Cafe Madison"
+  },
+  {
+    "localidade": "Manhattan",
+    "gastronomia": "American",
+    "grades": [
+      {
+        "score": 0
+      },
+      {
+        "score": 3
+      },
+      {
+        "score": 2
+      }
+    ],
+    "nome": "Citibank Executive Conference Center"
+  },
+  {
+    "localidade": "Manhattan",
+    "gastronomia": "American",
+    "grades": [
+      {
+        "score": 3
+      },
+      {
+        "score": 2
+      },
+      {
+        "score": 2
+      },
+      {
+        "score": 0
+      }
+    ],
+    "nome": "Kenyon & Kenyon Cafeteria"
+  },
+  {
+    "localidade": "Manhattan",
+    "gastronomia": "American",
+    "grades": [
+      {
+        "score": 2
+      },
+      {
+        "score": 0
+      }
+    ],
+    "nome": "Gold Bar B"
+  },
+  {
+    "localidade": "Manhattan",
+    "gastronomia": "American",
+    "grades": [
+      {
+        "score": 0
+      },
+      {
+        "score": 0
+      },
+      {
+        "score": 2
+      }
+    ],
+    "nome": "Circle In The Square Theatre"
+  },
+  {
+    "localidade": "Brooklyn",
+    "gastronomia": "American",
+    "grades": [
+      {
+        "score": 3
+      }
+    ],
+    "nome": "Stand # 210"
+  }
+]

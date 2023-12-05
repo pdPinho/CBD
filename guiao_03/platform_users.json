@@ -1,0 +1,142 @@
+[
+  {
+    "id": "3fc12cab-2064-4af4-9969-1e5050d6b061",
+    "creation_time": "2023-11-28 12:02:42.745",
+    "email": "vital_ou_victal@ua.pt",
+    "namee": "TomasVictttt",
+    "username": "user2"
+  },
+  {
+    "id": "3fc12cab-2064-4af4-9969-1e5050d6b064",
+    "creation_time": "2023-11-28 12:02:42.788",
+    "email": "eva.brown@example.com",
+    "namee": "Eva Brown",
+    "username": "user5"
+  },
+  {
+    "id": "3fc12cab-2064-4af4-9969-1e5050d6b077",
+    "creation_time": "2023-11-28 12:02:42.946",
+    "email": "andrew.wright@example.com",
+    "namee": "Andrew Wright",
+    "username": "user18"
+  },
+  {
+    "id": "3fc12cab-2064-4af4-9969-1e5050d6b065",
+    "creation_time": "2023-11-28 12:02:42.797",
+    "email": "chris.davis@example.com",
+    "namee": "Chris Davis",
+    "username": "user6"
+  },
+  {
+    "id": "3fc12cab-2064-4af4-9969-1e5050d6b066",
+    "creation_time": "2023-11-28 12:02:42.823",
+    "email": "olivia.white@example.com",
+    "namee": "Olivia White",
+    "username": "user7"
+  },
+  {
+    "id": "3fc12cab-2064-4af4-9969-1e5050d6b072",
+    "creation_time": "2023-11-28 12:02:42.877",
+    "email": "ava.hall@example.com",
+    "namee": "Ava Hall",
+    "username": "user13"
+  },
+  {
+    "id": "3fc12cab-2064-4af4-9969-1e5050d6b062",
+    "creation_time": "2023-11-28 12:02:42.758",
+    "email": "john.doe@example.com",
+    "namee": "John Doe",
+    "username": "user3"
+  },
+  {
+    "id": "3fc12cab-2064-4af4-9969-1e5050d6b060",
+    "creation_time": "2023-11-28 12:02:42.718",
+    "email": "pd.pinho@ua.pt",
+    "namee": "Pedro",
+    "username": "user1"
+  },
+  {
+    "id": "3fc12cab-2064-4af4-9969-1e5050d6b075",
+    "creation_time": "2023-11-28 12:02:42.932",
+    "email": "david.scott@example.com",
+    "namee": "David Scott",
+    "username": "user16"
+  },
+  {
+    "id": "3fc12cab-2064-4af4-9969-1e5050d6b070",
+    "creation_time": "2023-11-28 12:02:42.862",
+    "email": "emma.lee@example.com",
+    "namee": "Emma Lee",
+    "username": "user11"
+  },
+  {
+    "id": "3fc12cab-2064-4af4-9969-1e5050d6b063",
+    "creation_time": "2023-11-28 12:02:42.765",
+    "email": "bob.wilson@example.com",
+    "namee": "Bob Wilson",
+    "username": "user4"
+  },
+  {
+    "id": "3fc12cab-2064-4af4-9969-1e5050d6b079",
+    "creation_time": "2023-11-28 12:02:42.963",
+    "email": "joseph.harris@example.com",
+    "namee": "Joseph Harris",
+    "username": "user20"
+  },
+  {
+    "id": "3fc12cab-2064-4af4-9969-1e5050d6b069",
+    "creation_time": "2023-11-28 12:02:42.848",
+    "email": "matthew.taylor@example.com",
+    "namee": "Matthew Taylor",
+    "username": "user10"
+  },
+  {
+    "id": "3fc12cab-2064-4af4-9969-1e5050d6b071",
+    "creation_time": "2023-11-28 12:02:42.870",
+    "email": "daniel.martinez@example.com",
+    "namee": "Daniel Martinez",
+    "username": "user12"
+  },
+  {
+    "id": "3fc12cab-2064-4af4-9969-1e5050d6b073",
+    "creation_time": "2023-11-28 12:02:42.887",
+    "email": "christopher.king@example.com",
+    "namee": "Christopher King",
+    "username": "user14"
+  },
+  {
+    "id": "3fc12cab-2064-4af4-9969-1e5050d6b074",
+    "creation_time": "2023-11-28 12:02:42.899",
+    "email": "isabella.turner@example.com",
+    "namee": "Isabella Turner",
+    "username": "user15"
+  },
+  {
+    "id": "3fc12cab-2064-4af4-9969-1e5050d6b067",
+    "creation_time": "2023-11-28 12:02:42.834",
+    "email": "michael.jones@example.com",
+    "namee": "Michael Jones",
+    "username": "user8"
+  },
+  {
+    "id": "3fc12cab-2064-4af4-9969-1e5050d6b076",
+    "creation_time": "2023-11-28 12:02:42.939",
+    "email": "grace.adams@example.com",
+    "namee": "Grace Adams",
+    "username": "user17"
+  },
+  {
+    "id": "3fc12cab-2064-4af4-9969-1e5050d6b078",
+    "creation_time": "2023-11-28 12:02:42.954",
+    "email": "mia.evans@example.com",
+    "namee": "Mia Evans",
+    "username": "user19"
+  },
+  {
+    "id": "3fc12cab-2064-4af4-9969-1e5050d6b068",
+    "creation_time": "2023-11-28 12:02:42.841",
+    "email": "sophia.moore@example.com",
+    "namee": "Sophia Moore",
+    "username": "user9"
+  }
+]

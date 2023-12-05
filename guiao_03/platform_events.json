@@ -1,0 +1,51 @@
+[
+  {
+    "user_id": "3fc12cab-2064-4af4-9969-1e5050d6b069",
+    "video_id": "3fc12cab-2064-4af4-9969-1e5050d6b077",
+    "creation_time": "2023-11-28 12:02:43.490",
+    "actionn": "STOP",
+    "video_time": 350
+  },
+  {
+    "user_id": "3fc12cab-2064-4af4-9969-1e5050d6b069",
+    "video_id": "3fc12cab-2064-4af4-9969-1e5050d6b077",
+    "creation_time": "2023-11-28 12:02:43.480",
+    "actionn": "PAUSE",
+    "video_time": 350
+  },
+  {
+    "user_id": "3fc12cab-2064-4af4-9969-1e5050d6b069",
+    "video_id": "3fc12cab-2064-4af4-9969-1e5050d6b077",
+    "creation_time": "2023-11-28 12:02:43.473",
+    "actionn": "START",
+    "video_time": 300
+  },
+  {
+    "user_id": "3fc12cab-2064-4af4-9969-1e5050d6b069",
+    "video_id": "3fc12cab-2064-4af4-9969-1e5050d6b077",
+    "creation_time": "2023-11-28 12:02:43.448",
+    "actionn": "PAUSE",
+    "video_time": 300
+  },
+  {
+    "user_id": "3fc12cab-2064-4af4-9969-1e5050d6b069",
+    "video_id": "3fc12cab-2064-4af4-9969-1e5050d6b077",
+    "creation_time": "2023-11-28 12:02:43.439",
+    "actionn": "START",
+    "video_time": 0
+  },
+  {
+    "user_id": "3fc12cab-2064-4af4-9969-1e5050d6b079",
+    "video_id": "3fc12cab-2064-4af4-9969-1e5050d6b065",
+    "creation_time": "2023-11-28 12:02:43.526",
+    "actionn": "STOP",
+    "video_time": 350
+  },
+  {
+    "user_id": "3fc12cab-2064-4af4-9969-1e5050d6b079",
+    "video_id": "3fc12cab-2064-4af4-9969-1e5050d6b065",
+    "creation_time": "2023-11-28 12:02:43.519",
+    "actionn": "START",
+    "video_time": 300
+  }
+]

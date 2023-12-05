@@ -1,0 +1,32 @@
+!!!!
+No redis eu não utilizei o TTL do Redis pois naquela altura ainda não tinha estudado os slides, por isso a maneira como eu resolvi não foi muito eficaz.
+!!!!
+
+
+The difference between MongoDB and Redis is that one is a key-value database and the other is a document based database
+
+
+Implementation:
+    MongoDB:
+        - Created a database for this exercise, where we would create and insert documents
+        - For the first exercise I decided to keep all the history and simply gather all the values above a certain timestamp.
+        - For the second exercise I decided to use a TTL, where I created an index which would delete a document after X time.
+
+    Redis:
+        - Each entry is a key (so we could associate something such as [user: {product_dictionary}])
+        - I used the same implementation for both with my own timestamp and "TTL".
+        - However we could've used Redis' "expire" option
+
+
+Performance:
+    Redis will always provide us with O(1) lookup time - as long as things fit in our memory
+    MongoDB however will vary between O(n) and O(log n) - depending if you have an index or not
+
+
+Advantages / Disadvantages:
+    Since redis is an in-memory storage, the moment you turn it off, you lose it all (unless you have snapshots)
+    Mongo on the other hand has persistent data since it is written on the disk
+    Redis has a limit in terms of how much data you can have (RAM), whilst Mongo's limitation is the size of your disk (example: 16GB vs 256GB)
+    If you want to look up something in Redis, then you must know the key to look up - and changing a bucket means rewriting it entirely
+    (same happens if you want to "look up" a specific value within a bucket. You have to read the entire bucket nonetheless)
+    In mongo you can look for specific documents based on their values and can change their values without having to alter everything

@@ -1,0 +1,771 @@
+[
+  {
+    "_id": {
+      "$oid": "6515422d920d752cf7586e96"
+    },
+    "address": {
+      "building": "2300",
+      "coord": [
+        -73.8786113,
+        40.8502883
+      ],
+      "rua": "Southern Boulevard",
+      "zipcode": "10460"
+    },
+    "localidade": "Bronx",
+    "gastronomia": "American",
+    "grades": [
+      {
+        "date": {
+          "$date": "2014-05-21T00:00:00Z"
+        },
+        "grade": "A",
+        "score": 5
+      },
+      {
+        "date": {
+          "$date": "2013-05-28T00:00:00Z"
+        },
+        "grade": "A",
+        "score": 3
+      },
+      {
+        "date": {
+          "$date": "2012-06-18T00:00:00Z"
+        },
+        "grade": "A",
+        "score": 4
+      },
+      {
+        "date": {
+          "$date": "2011-06-07T00:00:00Z"
+        },
+        "grade": "A",
+        "score": 9
+      }
+    ],
+    "nome": "African Market (Baboon Cafe)",
+    "restaurant_id": "40368026"
+  },
+  {
+    "_id": {
+      "$oid": "6515422d920d752cf7586e91"
+    },
+    "address": {
+      "building": "2300",
+      "coord": [
+        -73.8786113,
+        40.8502883
+      ],
+      "rua": "Southern Boulevard",
+      "zipcode": "10460"
+    },
+    "localidade": "Bronx",
+    "gastronomia": "African",
+    "grades": [
+      {
+        "date": {
+          "$date": "2014-05-21T00:00:00Z"
+        },
+        "grade": "A",
+        "score": 8
+      },
+      {
+        "date": {
+          "$date": "2013-06-01T00:00:00Z"
+        },
+        "grade": "A",
+        "score": 6
+      },
+      {
+        "date": {
+          "$date": "2012-06-12T00:00:00Z"
+        },
+        "grade": "A",
+        "score": 0
+      },
+      {
+        "date": {
+          "$date": "2011-06-08T00:00:00Z"
+        },
+        "grade": "A",
+        "score": 0
+      }
+    ],
+    "nome": "African Terrace",
+    "restaurant_id": "40368021"
+  },
+  {
+    "_id": {
+      "$oid": "6515422d920d752cf7587335"
+    },
+    "address": {
+      "building": "3825",
+      "coord": [
+        -73.86267,
+        40.884484
+      ],
+      "rua": "White Plains Road",
+      "zipcode": "10467"
+    },
+    "localidade": "Bronx",
+    "gastronomia": "Caribbean",
+    "grades": [
+      {
+        "date": {
+          "$date": "2014-11-06T00:00:00Z"
+        },
+        "grade": "Z",
+        "score": 20
+      },
+      {
+        "date": {
+          "$date": "2014-06-16T00:00:00Z"
+        },
+        "grade": "A",
+        "score": 12
+      },
+      {
+        "date": {
+          "$date": "2013-10-21T00:00:00Z"
+        },
+        "grade": "B",
+        "score": 15
+      },
+      {
+        "date": {
+          "$date": "2013-05-20T00:00:00Z"
+        },
+        "grade": "B",
+        "score": 22
+      },
+      {
+        "date": {
+          "$date": "2012-04-17T00:00:00Z"
+        },
+        "grade": "A",
+        "score": 10
+      }
+    ],
+    "nome": "Al Cholo Bakery",
+    "restaurant_id": "40424273"
+  },
+  {
+    "_id": {
+      "$oid": "6515422e920d752cf7587904"
+    },
+    "address": {
+      "building": "4220",
+      "coord": [
+        -73.85672319999999,
+        40.8939927
+      ],
+      "rua": "White Plains Road",
+      "zipcode": "10466"
+    },
+    "localidade": "Bronx",
+    "gastronomia": "Caribbean",
+    "grades": [
+      {
+        "date": {
+          "$date": "2014-11-06T00:00:00Z"
+        },
+        "grade": "A",
+        "score": 10
+      },
+      {
+        "date": {
+          "$date": "2013-11-06T00:00:00Z"
+        },
+        "grade": "A",
+        "score": 9
+      },
+      {
+        "date": {
+          "$date": "2013-05-31T00:00:00Z"
+        },
+        "grade": "A",
+        "score": 9
+      },
+      {
+        "date": {
+          "$date": "2012-11-27T00:00:00Z"
+        },
+        "grade": "A",
+        "score": 7
+      },
+      {
+        "date": {
+          "$date": "2012-06-28T00:00:00Z"
+        },
+        "grade": "A",
+        "score": 7
+      },
+      {
+        "date": {
+          "$date": "2012-01-19T00:00:00Z"
+        },
+        "grade": "A",
+        "score": 13
+      }
+    ],
+    "nome": "Ali'S Roti Shop",
+    "restaurant_id": "40738028"
+  },
+  {
+    "_id": {
+      "$oid": "6515422d920d752cf7587313"
+    },
+    "address": {
+      "building": "730",
+      "coord": [
+        -73.89954829999999,
+        40.8164378
+      ],
+      "rua": "Kelly Street",
+      "zipcode": "10455"
+    },
+    "localidade": "Bronx",
+    "gastronomia": "American",
+    "grades": [
+      {
+        "date": {
+          "$date": "2015-01-20T00:00:00Z"
+        },
+        "grade": "Not Yet Graded",
+        "score": 4
+      }
+    ],
+    "nome": "Ambassador Diner",
+    "restaurant_id": "40403946"
+  },
+  {
+    "_id": {
+      "$oid": "6515422d920d752cf758752c"
+    },
+    "address": {
+      "building": "445",
+      "coord": [
+        -73.9049794,
+        40.8874509
+      ],
+      "rua": "West  238 Street",
+      "zipcode": "10463"
+    },
+    "localidade": "Bronx",
+    "gastronomia": "American",
+    "grades": [
+      {
+        "date": {
+          "$date": "2014-03-20T00:00:00Z"
+        },
+        "grade": "A",
+        "score": 11
+      },
+      {
+        "date": {
+          "$date": "2013-08-15T00:00:00Z"
+        },
+        "grade": "A",
+        "score": 11
+      },
+      {
+        "date": {
+          "$date": "2012-08-01T00:00:00Z"
+        },
+        "grade": "A",
+        "score": 11
+      },
+      {
+        "date": {
+          "$date": "2012-03-27T00:00:00Z"
+        },
+        "grade": "A",
+        "score": 12
+      }
+    ],
+    "nome": "An Beal Bocht Cafe",
+    "restaurant_id": "40570634"
+  },
+  {
+    "_id": {
+      "$oid": "6515422e920d752cf75878c8"
+    },
+    "address": {
+      "building": "4315",
+      "coord": [
+        -73.8676548,
+        40.8992003
+      ],
+      "rua": "Katonah Ave",
+      "zipcode": "10470"
+    },
+    "localidade": "Bronx",
+    "gastronomia": "Bakery",
+    "grades": [
+      {
+        "date": {
+          "$date": "2014-09-22T00:00:00Z"
+        },
+        "grade": "A",
+        "score": 7
+      },
+      {
+        "date": {
+          "$date": "2013-10-08T00:00:00Z"
+        },
+        "grade": "A",
+        "score": 12
+      },
+      {
+        "date": {
+          "$date": "2013-05-29T00:00:00Z"
+        },
+        "grade": "A",
+        "score": 7
+      },
+      {
+        "date": {
+          "$date": "2012-12-12T00:00:00Z"
+        },
+        "grade": "A",
+        "score": 0
+      },
+      {
+        "date": {
+          "$date": "2011-12-06T00:00:00Z"
+        },
+        "grade": "A",
+        "score": 7
+      }
+    ],
+    "nome": "Angelica'S Bakery",
+    "restaurant_id": "40730301"
+  },
+  {
+    "_id": {
+      "$oid": "6515422e920d752cf7587977"
+    },
+    "address": {
+      "building": "2276",
+      "coord": [
+        -73.8263328,
+        40.8662088
+      ],
+      "rua": "Bartow Avenue",
+      "zipcode": "10475"
+    },
+    "localidade": "Bronx",
+    "gastronomia": "American",
+    "grades": [
+      {
+        "date": {
+          "$date": "2015-01-14T00:00:00Z"
+        },
+        "grade": "A",
+        "score": 3
+      },
+      {
+        "date": {
+          "$date": "2014-08-28T00:00:00Z"
+        },
+        "grade": "A",
+        "score": 10
+      },
+      {
+        "date": {
+          "$date": "2013-08-09T00:00:00Z"
+        },
+        "grade": "A",
+        "score": 12
+      },
+      {
+        "date": {
+          "$date": "2013-03-06T00:00:00Z"
+        },
+        "grade": "A",
+        "score": 5
+      },
+      {
+        "date": {
+          "$date": "2012-02-02T00:00:00Z"
+        },
+        "grade": "A",
+        "score": 11
+      }
+    ],
+    "nome": "Applebee'S Neighborhood Grill & Bar",
+    "restaurant_id": "40752494"
+  },
+  {
+    "_id": {
+      "$oid": "6515422d920d752cf7586fa4"
+    },
+    "address": {
+      "building": "4277",
+      "coord": [
+        -73.8675389,
+        40.8977829
+      ],
+      "rua": "Katonah Ave",
+      "zipcode": "10470"
+    },
+    "localidade": "Bronx",
+    "gastronomia": "Irish",
+    "grades": [
+      {
+        "date": {
+          "$date": "2014-10-06T00:00:00Z"
+        },
+        "grade": "A",
+        "score": 2
+      },
+      {
+        "date": {
+          "$date": "2013-10-16T00:00:00Z"
+        },
+        "grade": "A",
+        "score": 7
+      },
+      {
+        "date": {
+          "$date": "2013-04-30T00:00:00Z"
+        },
+        "grade": "A",
+        "score": 12
+      },
+      {
+        "date": {
+          "$date": "2012-04-30T00:00:00Z"
+        },
+        "grade": "A",
+        "score": 8
+      },
+      {
+        "date": {
+          "$date": "2011-11-01T00:00:00Z"
+        },
+        "grade": "A",
+        "score": 11
+      }
+    ],
+    "nome": "Aqueduct North",
+    "restaurant_id": "40379894"
+  },
+  {
+    "_id": {
+      "$oid": "6515422d920d752cf7587533"
+    },
+    "address": {
+      "building": "1511",
+      "coord": [
+        -73.86362500000001,
+        40.8381664
+      ],
+      "rua": "White Plains Road",
+      "zipcode": "10462"
+    },
+    "localidade": "Bronx",
+    "gastronomia": "American",
+    "grades": [
+      {
+        "date": {
+          "$date": "2014-06-25T00:00:00Z"
+        },
+        "grade": "A",
+        "score": 13
+      },
+      {
+        "date": {
+          "$date": "2013-06-03T00:00:00Z"
+        },
+        "grade": "A",
+        "score": 12
+      },
+      {
+        "date": {
+          "$date": "2012-06-06T00:00:00Z"
+        },
+        "grade": "A",
+        "score": 13
+      }
+    ],
+    "nome": "Archer Sports Bar",
+    "restaurant_id": "40571081"
+  },
+  {
+    "_id": {
+      "$oid": "6515422d920d752cf75873bc"
+    },
+    "address": {
+      "building": "394",
+      "coord": [
+        -73.78706799999999,
+        40.8496359
+      ],
+      "rua": "City Island Avenue",
+      "zipcode": "10464"
+    },
+    "localidade": "Bronx",
+    "gastronomia": "Italian",
+    "grades": [
+      {
+        "date": {
+          "$date": "2014-05-22T00:00:00Z"
+        },
+        "grade": "A",
+        "score": 7
+      },
+      {
+        "date": {
+          "$date": "2013-12-11T00:00:00Z"
+        },
+        "grade": "A",
+        "score": 11
+      },
+      {
+        "date": {
+          "$date": "2013-03-28T00:00:00Z"
+        },
+        "grade": "B",
+        "score": 22
+      },
+      {
+        "date": {
+          "$date": "2012-08-07T00:00:00Z"
+        },
+        "grade": "A",
+        "score": 13
+      },
+      {
+        "date": {
+          "$date": "2012-01-18T00:00:00Z"
+        },
+        "grade": "A",
+        "score": 13
+      }
+    ],
+    "nome": "Artie'S",
+    "restaurant_id": "40515670"
+  },
+  {
+    "_id": {
+      "$oid": "6515422d920d752cf7587050"
+    },
+    "address": {
+      "building": "5189A",
+      "coord": [
+        -73.91039789999999,
+        40.8745536
+      ],
+      "rua": "Broadway",
+      "zipcode": "10463"
+    },
+    "localidade": "Bronx",
+    "gastronomia": "Pizza",
+    "grades": [
+      {
+        "date": {
+          "$date": "2015-01-09T00:00:00Z"
+        },
+        "grade": "A",
+        "score": 10
+      },
+      {
+        "date": {
+          "$date": "2014-06-23T00:00:00Z"
+        },
+        "grade": "A",
+        "score": 9
+      },
+      {
+        "date": {
+          "$date": "2013-10-16T00:00:00Z"
+        },
+        "grade": "A",
+        "score": 10
+      },
+      {
+        "date": {
+          "$date": "2013-05-15T00:00:00Z"
+        },
+        "grade": "C",
+        "score": 13
+      },
+      {
+        "date": {
+          "$date": "2012-09-20T00:00:00Z"
+        },
+        "grade": "A",
+        "score": 4
+      },
+      {
+        "date": {
+          "$date": "2012-04-23T00:00:00Z"
+        },
+        "grade": "A",
+        "score": 12
+      }
+    ],
+    "nome": "Arturo'S Pizza",
+    "restaurant_id": "40387399"
+  },
+  {
+    "_id": {
+      "$oid": "6515422d920d752cf758732a"
+    },
+    "address": {
+      "building": "670",
+      "coord": [
+        -73.8851025,
+        40.8541951
+      ],
+      "rua": "East  187 Street",
+      "zipcode": "10458"
+    },
+    "localidade": "Bronx",
+    "gastronomia": "Italian",
+    "grades": [
+      {
+        "date": {
+          "$date": "2014-05-29T00:00:00Z"
+        },
+        "grade": "A",
+        "score": 8
+      },
+      {
+        "date": {
+          "$date": "2014-01-02T00:00:00Z"
+        },
+        "grade": "A",
+        "score": 2
+      },
+      {
+        "date": {
+          "$date": "2012-12-07T00:00:00Z"
+        },
+        "grade": "A",
+        "score": 13
+      },
+      {
+        "date": {
+          "$date": "2011-11-29T00:00:00Z"
+        },
+        "grade": "A",
+        "score": 13
+      }
+    ],
+    "nome": "Artuso Pastry Shop",
+    "restaurant_id": "40423571"
+  },
+  {
+    "_id": {
+      "$oid": "6515422e920d752cf758799a"
+    },
+    "address": {
+      "building": "5500",
+      "coord": [
+        -73.90567390000001,
+        40.8766056
+      ],
+      "rua": "Broadway",
+      "zipcode": "10463"
+    },
+    "localidade": "Bronx",
+    "gastronomia": "Juice, Smoothies, Fruit Salads",
+    "grades": [
+      {
+        "date": {
+          "$date": "2014-09-16T00:00:00Z"
+        },
+        "grade": "A",
+        "score": 12
+      },
+      {
+        "date": {
+          "$date": "2013-09-19T00:00:00Z"
+        },
+        "grade": "A",
+        "score": 12
+      },
+      {
+        "date": {
+          "$date": "2012-09-20T00:00:00Z"
+        },
+        "grade": "A",
+        "score": 10
+      },
+      {
+        "date": {
+          "$date": "2011-10-06T00:00:00Z"
+        },
+        "grade": "A",
+        "score": 13
+      }
+    ],
+    "nome": "Astral Fitness & Wellness",
+    "restaurant_id": "40760469"
+  },
+  {
+    "_id": {
+      "$oid": "6515422d920d752cf758708f"
+    },
+    "address": {
+      "building": "2214",
+      "coord": [
+        -73.82328319999999,
+        40.8689401
+      ],
+      "rua": "Bartow Ave",
+      "zipcode": "10475"
+    },
+    "localidade": "Bronx",
+    "gastronomia": "Delicatessen",
+    "grades": [
+      {
+        "date": {
+          "$date": "2014-10-18T00:00:00Z"
+        },
+        "grade": "A",
+        "score": 12
+      },
+      {
+        "date": {
+          "$date": "2014-05-02T00:00:00Z"
+        },
+        "grade": "A",
+        "score": 7
+      },
+      {
+        "date": {
+          "$date": "2013-10-30T00:00:00Z"
+        },
+        "grade": "A",
+        "score": 10
+      },
+      {
+        "date": {
+          "$date": "2013-05-30T00:00:00Z"
+        },
+        "grade": "A",
+        "score": 13
+      },
+      {
+        "date": {
+          "$date": "2013-02-12T00:00:00Z"
+        },
+        "grade": "B",
+        "score": 18
+      },
+      {
+        "date": {
+          "$date": "2012-01-18T00:00:00Z"
+        },
+        "grade": "A",
+        "score": 7
+      }
+    ],
+    "nome": "Bagel Cafe",
+    "restaurant_id": "40389011"
+  }
+]
