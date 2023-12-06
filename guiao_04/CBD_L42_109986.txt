@@ -1,0 +1,154 @@
+#1
+match (n:Person)-[:DIRECTED]->(b:Movie)<-[:ACTED_IN]-(n)
+return n.name as name, b.title as title
+
+
+#2
+match (m:Movie)<-[:ACTED_IN]-(p:Person) 
+WHERE m.released > 2005
+return p.name as name
+
+
+// Não tenho a certeza se este está correto, pois existe um par de nós que só contem uma relação... mas não sei o porquê
+#3
+MATCH (a)-[r]-(b) 
+WITH a, b, COUNT(r) AS count_Rel
+WHERE count_Rel > 1
+RETURN a, b   
+
+
+// Penso que poderá haver mais soluções que esta... Neste caso o que estamos a fazer é prevenir que tenhamos
+// nodes duplicadas de ordem inversa (a-b) - (b-a). Fazemos isto dizendo que o ID do A é maior que o B
+#4
+MATCH (a:Person)-[:REVIEWED]->(m:Movie)<-[:REVIEWED]-(b:Person) 
+WHERE a > b
+RETURN DISTINCT a.name AS person_1, b.name AS person_2, m.title AS title   
+
+
+#5 
+MATCH (a:Person)-[:ACTED_IN]->(m:Movie)<-[:ACTED_IN]-(b:Person)
+WHERE a > b
+WITH a, b, COUNT(m) as c_m
+WHERE c_m > 1
+RETURN DISTINCT a, b, c_m
+
+
+#6 
+MATCH (a:Person)-[:ACTED_IN]->(m:Movie)
+WHERE m.title = "Apollo 13"
+WITH AVG(m.released - a.born) as averageAge
+RETURN averageAge
+
+
+#7
+MATCH (a:Person)-[:ACTED_IN]->(m:Movie)
+WITH DISTINCT m, ROUND(AVG(m.released - a.born),2) as averageAge
+ORDER BY averageAge DESC
+RETURN averageAge
+LIMIT 10
+
+
+#8
+MATCH (a:Person)-[r:ACTED_IN]->(m:Movie)
+WITH DISTINCT m as movie, ROUND(AVG(m.released - a.born),2) as averageAge
+ORDER BY averageAge ASC
+LIMIT 1
+MATCH everything = (:Person)-[:ACTED_IN]->(movie)
+RETURN everything
+
+
+#9
+MATCH path = shortestPath((p1:Person)-[*..10]-(p2:Person))
+WHERE p1.name = "John Cusack" AND p2.name = "Demi Moore"
+return path
+
+
+// Precisamos de retirar 1 do resultado pois ao contarmos todas as nodes, estamos a contar com a inicial também
+#10
+MATCH path = shortestPath((p1:Person)-[*..10]-(p2:Person))
+WHERE p1.name = "John Cusack" AND p2.name = "Demi Moore"
+UNWIND nodes(path) as totalNodes
+return COUNT(totalNodes) - 1
+
+
+// Agora que sei que existe Length, acho que o nº 10 poderia ter sido feito desta maneira também
+#11
+MATCH path = shortestPath((p1:Person)-[*..10]-(p2:Person))
+WHERE p1.name CONTAINS "Jim" AND p2.name CONTAINS "Kevin"
+WITH length(path) as totalLength
+ORDER BY totalLength ASC
+return totalLength
+LIMIT 1
+
+
+#12
+MATCH path = shortestPath((p1:Person)-[*..2]-(p2:Person))
+WHERE p1.name CONTAINS "Jim Cash" AND p1 > p2
+RETURN p2
+
+
+// Neste caso temos um "warning" que é devido a estarmos a utilizar o algoritmo shortestPath sem dar upperbound
+// mas nesta questão, é necessário não dar upperbound sadly
+#13
+MATCH path = shortestPath((p1:Person)-[*]-(p2:Person))
+WHERE p1.name CONTAINS "Kevin Bacon" AND p1 > p2
+WITH length(path) as totalLength
+ORDER BY totalLength DESC
+return totalLength
+LIMIT 1
+
+
+#14
+MATCH path = shortestPath((p1:Person)-[*]-(p2:Person))
+WHERE p1 > p2
+WITH length(path) as totalLength
+ORDER BY totalLength DESC
+return totalLength
+LIMIT 1
+
+
+#15
+MATCH path = shortestPath((p1:Person)-[*]-(p2:Person))
+WHERE p1 > p2
+WITH length(path) as totalLength
+ORDER BY totalLength ASC
+return totalLength, COUNT(totalLength) AS totalNodes
+
+
+#16
+MATCH path = shortestPath((p1:Person)-[:ACTED_IN*]-(p2:Person))
+WHERE p1 > p2
+WITH p1, p2, path, length(path) as totalLength
+WITH p1, ROUND(AVG(totalLength), 2) as avgLength
+RETURN p1, avgLength
+ORDER BY avgLength
+LIMIT 10
+
+
+// Pelo que entendi, é necessário o ANY porque existem alguns que não tem o que faz com que isso dê problemas...
+#17
+MATCH (p1:Person)-[r:ACTED_IN]->(:Movie)
+WHERE ANY(role IN r.roles WHERE role STARTS WITH 'Dr.')
+RETURN p1.name AS Ator, r.roles AS Lista_das_roles
+
+
+// Obtenha a idade média das pessoas que atuaram em filmes
+#18
+MATCH (a:Person)-[:ACTED_IN]->(m:Movie)
+WITH ROUND(AVG(m.released - a.born),2) as averageAge
+ORDER BY averageAge DESC
+RETURN averageAge
+
+
+// Obtenha as pessoas que tenham atuado ou dirigido um filme e que também o tenham escrito 
+#19
+MATCH (p:Person)-[:ACTED_IN|DIRECTED]->(m:Movie)<-[:WROTE]-(p:Person)
+RETURN p.name, m.title
+
+
+// Obtenha a média da availação que cada filme lançado antes de 1997 tem
+#20
+MATCH (:Person)-[r:REVIEWED]->(m:Movie)
+WHERE m.released < 1997
+WITH m, ROUND(AVG(r.rating),2) as rating
+RETURN m.title, rating
